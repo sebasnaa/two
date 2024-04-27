@@ -28,12 +28,12 @@ Primero, agreguemos un flujo de trabajo para _lint_ (limpiar, como un rodillo de
 ### :keyboard: Actividad: Agregar un flujo de trabajo de prueba
 
 1. Abre una nueva pestaña del navegador y trabaja a través de los siguientes pasos en esa pestaña mientras lees las instrucciones en esta pestaña.
-2. Ve a la **pestaña Actions**.
-3. Haz clic en **Nuevo workflow**.
-4. Busca "Simple workflow" y haz clic en **Configurar**.
-5. Nombre de tu flujo de trabajo `ci.yml`.
-6. Actualiza el flujo de trabajo eliminando los dos últimos pasos.
-7. Agrega el siguiente paso al final de tu flujo de trabajo:
+1. Ve a la **pestaña Actions**.
+1. Haz clic en **Nuevo workflow**.
+1. Busca "Simple workflow" y haz clic en **Configurar**.
+1. Nombre de tu flujo de trabajo `ci.yml`.
+1. Actualiza el flujo de trabajo eliminando los dos últimos pasos.
+1. Agrega el siguiente paso al final de tu flujo de trabajo:
 
 
    ```yml
@@ -47,7 +47,7 @@ Primero, agreguemos un flujo de trabajo para _lint_ (limpiar, como un rodillo de
 
 
 1. Haz clic en **Commit changes...**, y elige crear una nueva rama llamada `ci`.
-2. Haz clic en **Propose changes**.
-3. Haz clic en **Crear pull request**.
-4. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
+1. Haz clic en **Propose changes**.
+1. Haz clic en **Crear pull request**.
+1. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
 
