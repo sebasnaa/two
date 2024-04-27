@@ -37,6 +37,6 @@ Para cargar artefactos en el almacenamiento de artefactos, podemos usar una acci
    ```
 
 1. Confirma tu cambio en esta rama.
-2. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
+1. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
 
 Al igual que la acción de carga para enviar artefactos al almacenamiento, puedes usar la acción de descarga para descargar estos artefactos previamente subidos desde el trabajo de `build`: [`actions/download-artifact`](https://github.com/actions/download-artifact). Por brevedad, omitiremos ese paso para este curso.
