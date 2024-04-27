@@ -27,4 +27,5 @@ jobs:
       
       - name: Run markdown lint
         run: |
-          echo "sebas"
+          npm install remark-cli remark-preset-lint-consistent
+          npx remark . --use remark-preset-lint-consistent --frail
